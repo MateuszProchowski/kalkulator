@@ -17,3 +17,16 @@
     background-color: blue;
     color: yellow;
 }
+
+#inputShowScore {
+border: none;
+border-bottom: pink solid 1px;
+}
+.btn:hover {
+background-color: rebeccapurple;
+color: springgreen;
+}
+#inputShowScore:focus {
+outline: none;
+border-bottom: palegreen;
+}
